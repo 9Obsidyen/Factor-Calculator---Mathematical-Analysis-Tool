@@ -19,8 +19,8 @@ This program is built using Python (>=3.6). No external dependencies are require
 
 ### 🔽 Clone the Repository
 ```sh
-git clone https://github.com/your-username/factor-calculator.git
-cd factor-calculator
+git clone https://github.com/9Obsidyen/Factor-Calculator---Mathematical-Analysis-Tool.git
+cd Factor-Calculator---Mathematical-Analysis-Tool
 ```
 
 ### ▶️ Running the Program
